@@ -1,0 +1,4 @@
+
+
+cd /d E:\temp\react\lessons\sr13
+set NODE_ENV=production && npm run start:prod
